@@ -9,7 +9,7 @@ I started to learn coding for solving DSA problems back in the University. It's 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Abdullah Miraj](http://https://mirajabdullah-6ef23.web.app/)
 * ✉️  You can contact me at [miraj2465@gmail.com](mailto:miraj2465@gmail.com)
-* 🚀  I'm currently working on [Fitness Shop](http://https://fitness-shop-app.netlify.app/)
+* 🚀  I'm currently working on [SkillsOK](https://skillsok.com)
 * 🧠  I'm learning Python Django
 
 ### Skills
